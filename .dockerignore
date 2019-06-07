@@ -1,0 +1,9 @@
+.vs
+.git
+dist
+node_modules
+./app/node_modules
+
+
+.dockerignore
+.gitignore
