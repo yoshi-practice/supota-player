@@ -12,4 +12,4 @@ RUN set -x && \
 
 EXPOSE 4200 49153
 
-CMD ["ng", "serve", "-o"]
+CMD ["npm", "run", "docker"]
